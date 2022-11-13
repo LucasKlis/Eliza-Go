@@ -1,2 +1,2 @@
-# Eliza-Go
-Jest to zminifikowana wersja eksperymentu z 1966 roku, w którym Joseph Weizenbaum założył, że komputer nie jest w stanie oszukać człowieka odnośnie swojej natury. Teza została obalona : )
+# Eliza
+It is a modified version of the 1966 experiment in which Joseph Weizenbaum assumed that a computer could not deceive a human about its nature. Thesis has been refuted :)
